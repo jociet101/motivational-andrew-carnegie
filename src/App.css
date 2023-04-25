@@ -12,6 +12,15 @@
   color: var(--main-color);
 }
 
+.frame {
+  width: 300px;
+  height: 250px;
+  border: 3px solid #ffffff;
+  background: #622a2a;
+  margin: auto;
+  padding: 15px 10px;
+}
+
 .subtitle {
   text-align: center;
   

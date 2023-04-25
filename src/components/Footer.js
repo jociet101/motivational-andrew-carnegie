@@ -5,7 +5,7 @@ export default function Footer() {
     <div class="footer">
       <div>
         <span></span>
-        <a>Created 04.24.23</a>
+        <a>Created April 2023 by Jocelyn Tseng</a>
         <span></span>
       </div>
     </div>
