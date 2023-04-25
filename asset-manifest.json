@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/motivational-andrew-carnegie/static/css/main.63f5b6aa.css",
+    "main.js": "/motivational-andrew-carnegie/static/js/main.39368a93.js",
+    "static/js/787.88cc8eb1.chunk.js": "/motivational-andrew-carnegie/static/js/787.88cc8eb1.chunk.js",
+    "index.html": "/motivational-andrew-carnegie/index.html",
+    "main.63f5b6aa.css.map": "/motivational-andrew-carnegie/static/css/main.63f5b6aa.css.map",
+    "main.39368a93.js.map": "/motivational-andrew-carnegie/static/js/main.39368a93.js.map",
+    "787.88cc8eb1.chunk.js.map": "/motivational-andrew-carnegie/static/js/787.88cc8eb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63f5b6aa.css",
+    "static/js/main.39368a93.js"
+  ]
+}
